@@ -33,3 +33,7 @@ From web:
 
 This visualization is not exactly what I intend to do, but it is similar as it is visualization of Amazon Reviews Data based on reviews and ratings.
 
+## Creators
+- Created by Nehal Bengre in collaboration with Prof. Suresh Lodha
+- CMPS263 Data Discovery and Visualization, Winter 2018
+
