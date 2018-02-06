@@ -12,9 +12,8 @@ cameras, laptops, mobilephone, tablets, TVs and video surveillances. I intend to
 ## Data sources
 -[University of Illinois-Urbana Champaign-Database and Information Systems Laboratory](http://times.cs.uiuc.edu/~wang296/Data/)
 
--Six Categories of Amazon Product Reviews
--Details about the dataset: Six products: cameras, laptops, mobilephone, tablets, TVs and video surveillances</p>
-Each of these six products have json files in the format :
+<br>Six Categories of Amazon Product Reviews: cameras, laptops, mobilephone, tablets, TVs and video surveillances</br>
+<br>Each of these six products have json files in the format :</br>
 {Reviews:[Title,Author,ReviewID,Overall,Content,ProductID]}
 
 
@@ -26,9 +25,8 @@ Each of these six products have json files in the format :
 I take inspiration from this project for visualization according to textual-sentiments
 
 -[Fruits and Vegetables](https://sureshlodha.github.io/CMPS165_Winter15_FinalProjects/FruitsAndVegetables/)
-
-<br>Alan Chan, Samuel Toussiant, Zachary Diebold,CMPS 165: Data Driven Discovery and Visualization:Winter 2015, Prof. Suresh Lodha
-I take inspiration from this project for visualization according to each features of food here( features of individual electronic products in my case)</br>
+<br>Alan Chan, Samuel Toussiant, Zachary Diebold,CMPS 165: Data Driven Discovery and Visualization:Winter 2015, Prof. Suresh Lodha</br>
+I take inspiration from this project for visualization according to each features of food here( features of individual electronic products in my case)
 
 ### From web:
 [Amazon Reviews Data](http://minimaxir.com/2017/01/amazon-spark/)
