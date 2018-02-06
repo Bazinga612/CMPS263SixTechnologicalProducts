@@ -18,8 +18,8 @@ Each of these six products have json files in the format :
 {Reviews:[Title,Author,ReviewID,Overall,Content,ProductID]}
 
 
-### Visualization sources
--From the previous UCSC classes of Visualization: 
+## Visualization sources
+### From the previous UCSC classes of Visualization: 
 
 -[Gender Pay Gap](https://sureshlodha.github.io/CMPS263_Win2017/GenderPayGap/)
 Ashwini Patil Geetanjali Rakshit,CMPS 263: Data Driven Discovery and Visualization:Winter 2017, Prof. Suresh Lodha
@@ -30,7 +30,7 @@ I take inspiration from this project for visualization according to textual-sent
 Alan Chan, Samuel Toussiant, Zachary Diebold,CMPS 165: Data Driven Discovery and Visualization:Winter 2015, Prof. Suresh Lodha
 I take inspiration from this project for visualization according to each features of food here( features of individual electronic products in my case)
 
--From web:
+### From web:
 (http://minimaxir.com/2017/01/amazon-spark/)
 This visualization is not exactly what I intend to do, but it is similar as it is visualization of Amazon Reviews Data based on reviews and ratings.
 
