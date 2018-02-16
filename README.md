@@ -14,7 +14,7 @@ cameras, laptops, mobilephone, tablets, TVs and video surveillances. I intend to
 |[University of Illinois-Urbana Champaign-Database and Information Systems Laboratory](http://times.cs.uiuc.edu/~wang296/Data/)
 Six Categories of Amazon Product Reviews: cameras, laptops, mobilephone, tablets, TVs and video surveillances
 Each of these six products have json files in the format :
-{Reviews:[Title,Author,ReviewID,Overall,Content,ProductID]}|
+{Reviews:[Title,Author,ReviewID,Overall,Content,ProductID]}
 |[Gender Pay Gap](https://sureshlodha.github.io/CMPS263_Win2017/GenderPayGap/)
 Ashwini Patil Geetanjali Rakshit,CMPS 263: Data Driven Discovery and Visualization:Winter 2017, Prof. Suresh Lodha
 I take inspiration from this project for visualization according to textual-sentiments|
