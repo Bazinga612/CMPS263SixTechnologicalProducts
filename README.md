@@ -12,21 +12,21 @@ cameras, laptops, mobilephone, tablets, TVs and video surveillances. I intend to
 |Data sources|Visualization sources|
 |--|--|
 |[University of Illinois-Urbana Champaign-Database and Information Systems Laboratory](http://times.cs.uiuc.edu/~wang296/Data/)
-<br>Six Categories of Amazon Product Reviews: cameras, laptops, mobilephone, tablets, TVs and video surveillances
-<br>Each of these six products have json files in the format :
+Six Categories of Amazon Product Reviews: cameras, laptops, mobilephone, tablets, TVs and video surveillances
+Each of these six products have json files in the format :
 {Reviews:[Title,Author,ReviewID,Overall,Content,ProductID]}|
 |[Gender Pay Gap](https://sureshlodha.github.io/CMPS263_Win2017/GenderPayGap/)
-<br>Ashwini Patil Geetanjali Rakshit,CMPS 263: Data Driven Discovery and Visualization:Winter 2017, Prof. Suresh Lodha
+Ashwini Patil Geetanjali Rakshit,CMPS 263: Data Driven Discovery and Visualization:Winter 2017, Prof. Suresh Lodha
 I take inspiration from this project for visualization according to textual-sentiments|
 |--|--|
 |
 |[Fruits and Vegetables](https://sureshlodha.github.io/CMPS165_Winter15_FinalProjects/FruitsAndVegetables/)
-<br>Alan Chan, Samuel Toussiant, Zachary Diebold,CMPS 165: Data Driven Discovery and Visualization:Winter 2015, Prof. Suresh Lodha
+Alan Chan, Samuel Toussiant, Zachary Diebold,CMPS 165: Data Driven Discovery and Visualization:Winter 2015, Prof. Suresh Lodha
 I take inspiration from this project for visualization according to each features of food here( features of individual electronic products in my case)|
 |--|--|
 |
 |[Amazon Reviews Data](http://minimaxir.com/2017/01/amazon-spark/)
-<br>This visualization is not exactly what I intend to do, but it is similar as it is visualization of Amazon Reviews Data based on reviews and ratings.|
+This visualization is not exactly what I intend to do, but it is similar as it is visualization of Amazon Reviews Data based on reviews and ratings.|
 
 ## Creators
 - Created by Nehal Bengre(nbengre@ucsc.edu) in collaboration with Prof. Suresh Lodha
